@@ -1,5 +1,4 @@
 # Policy Management System for an Insurance Company
-*BAN6420 Module 3 Milestone Assignment*
 
 ## Overview
 This project is a Policy Management System designed for an insurance company to manage policyholders, products, and payments. The system allows policy managers to perform various tasks, such as registering new members, managing policy products, updating and suspending policyholders.
